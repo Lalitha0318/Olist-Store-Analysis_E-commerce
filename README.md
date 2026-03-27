@@ -1,6 +1,6 @@
 # 🛒Olist-Store-Analysis_E-commerce
 
-Power BI • Tableau • SQL • Excel • MySQL
+**Power BI • Tableau • SQL • Excel • MySQL**
 
 This project presents an end-to-end analysis of Olist e-commerce data, leveraging Excel, SQL, Power BI, and Tableau. The dashboard processes 99K+ orders and $16M revenue to provide insights into sales trends, customer segmentation, and key performance metrics, enabling data-driven business strategies.
 
@@ -38,11 +38,11 @@ This project presents an end-to-end analysis of Olist e-commerce data, leveragin
 
 ➤ Average Delivery Time: 11.69 days
 
-📂 ## **Dataset Overview**
+## **Dataset Overview**
 
 The dataset used in this project is sourced from the Olist E-commerce platform and contains detailed information about orders, customers, products, payments, reviews, and logistics. It is a relational dataset with multiple interconnected tables, enabling comprehensive analysis of the e-commerce supply chain.
 
-🔹## **Core Tables Description**
+## **Core Tables Description**
 
 ➤ **olist_orders_dataset**
 Contains order-level information such as order ID, purchase timestamp, delivery dates, and order status
@@ -59,7 +59,7 @@ Contains product information such as category and product attributes
 ➤ **olist_sellers_dataset**
 Includes seller details such as seller ID and location
 
-🔹 ## **Supporting Tables**
+## **Supporting Tables**
 
 ➤ **olist_order_payments_dataset**
 Captures payment details including payment type, installments, and payment value
@@ -73,7 +73,7 @@ Provides geographic data (zip code, city, state) for mapping and regional analys
 ➤ **product_category_name_translation**
 Maps product category names from Portuguese to English for better understanding
 
-📊 ## **Data Characteristics**
+## **Data Characteristics**
 
 ➤ Covers 99K+ orders across multiple regions
 
@@ -137,7 +137,7 @@ Geolocation data enables regional insights
 
 ➤ Implement demand forecasting for better inventory planning
 
-📸 ## **Dashboard Preview**
+## 📸**Dashboard Preview**
 
 **Power BI Dashboard**
 
@@ -145,7 +145,7 @@ Geolocation data enables regional insights
 
 **Excel Dashboard**
 
-<img width="1668" height="675" alt="image" src="https://github.com/user-attachments/assets/47ca6b17-5376-4c47-af7c-05308634bb57" />
+<img width="1823" height="805" alt="image" src="https://github.com/user-attachments/assets/e1cd424b-9edf-4ef3-898a-da8daaff89c9" />
 
 **Tableau Dashboard**
 
@@ -167,5 +167,5 @@ Geolocation data enables regional insights
 
 This project demonstrates how data analytics can effectively enhance e-commerce decision-making. By analyzing 89K+ orders and $14M in revenue, key insights were derived on sales trends, customer behavior, and delivery performance. The interactive dashboard enables clear visibility into critical KPIs, helping businesses identify growth opportunities, improve operational efficiency, and enhance customer satisfaction.
 
-🔗## **Project Link**
+## 🔗**Project Link**
 
