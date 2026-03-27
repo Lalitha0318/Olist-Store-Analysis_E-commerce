@@ -139,15 +139,15 @@ Geolocation data enables regional insights
 
 ## 📸**Dashboard Preview**
 
-**Power BI Dashboard**
+## **Power BI Dashboard**
 
 <img width="1302" height="722" alt="image" src="https://github.com/user-attachments/assets/f228316e-51c4-4a45-8045-1a6294b71179" />
 
-**Excel Dashboard**
+## **Excel Dashboard**
 
 <img width="1823" height="805" alt="image" src="https://github.com/user-attachments/assets/e1cd424b-9edf-4ef3-898a-da8daaff89c9" />
 
-**Tableau Dashboard**
+## **Tableau Dashboard**
 
 <img width="1590" height="767" alt="Screenshot 2026-03-27 095351" src="https://github.com/user-attachments/assets/37757c4e-0d0f-4829-9fe9-15261cf3e404" />
 
