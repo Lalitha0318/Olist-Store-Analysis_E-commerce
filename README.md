@@ -167,5 +167,5 @@ Geolocation data enables regional insights
 
 This project demonstrates how data analytics can effectively enhance e-commerce decision-making. By analyzing 89K+ orders and $14M in revenue, key insights were derived on sales trends, customer behavior, and delivery performance. The interactive dashboard enables clear visibility into critical KPIs, helping businesses identify growth opportunities, improve operational efficiency, and enhance customer satisfaction.
 
-## 🔗**Project Link**
+
 
